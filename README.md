@@ -1,6 +1,6 @@
 # React-Fundamentals
 
-This project is a simple React application designed to help you learn the basics of React, including components, JSX, props, states, conditional rendering, and dynamically outputting lists.
+This project is a simple React application designed to understand the basics of React, including components, JSX, props, states, conditional rendering, and dynamically outputting lists.
 
 ## Preview 
 
