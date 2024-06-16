@@ -53,3 +53,5 @@ This project is a simple React application designed to understand the basics of 
 ## Contributing
 
 Contributions are welcome! If you have any improvements or suggestions, feel free to open an issue or create a pull request.
+
+Testing SSH with Git
